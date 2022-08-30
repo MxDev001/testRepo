@@ -4,6 +4,8 @@
 	"description": "A project that will help to ease the distribution of cashbound",
 	"keywords": ["freecodecamp"],
 	"license": "MIT",
+	"version": "1.2.0",
+
 	"dependencies": {
 		"express": "^4.14.0"
 	},
