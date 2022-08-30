@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "lucdev",
 	"description": "A project that will help to ease the distribution of cashbound",
+	"keywords": ["freecodecamp"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
